@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## 基于Create-react-app 脚手架
+
+## 创建命令见下方链接
+
+## 实现功能: 基于localStorage实现todo增删添加
+
 ## Available Scripts
 
 In the project directory, you can run:
